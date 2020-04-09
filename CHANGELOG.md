@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
+### [1.4.3](https://www.github.com/googleapis/python-pubsub/compare/v1.4.2...v1.4.3) (2020-04-09)
+
+
+### Bug Fixes
+
+* fix docs warnings in Sphinx 3.0+ ([#70](https://www.github.com/googleapis/python-pubsub/issues/70)) ([21e761e](https://www.github.com/googleapis/python-pubsub/commit/21e761ee89a4c03e105dc9cddbab0a34be9a9fda))
+
 ## [1.4.2](https://www.github.com/googleapis/python-pubsub/compare/v1.4.1...v1.4.2) (2020-03-25)
 
 ### Bug Fixes
